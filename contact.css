@@ -1,0 +1,48 @@
+.address{
+	background-color: #3cb371;
+	/background-image: ..image;
+	background-size: cover;
+	display: block;
+	float: left;
+	clear: both;
+	width: 100%;
+	padding-top: 60px;
+	margin-top: 15px;
+	height: auto;
+}
+
+.address .text-box-2{
+	width: 35.5%;
+	float: left;
+	margin-left: 10%;
+}
+
+.address .text-box-2 h2{
+	font-size: 35px;
+	line-height: 35px;
+	color: #fff;
+	letter-spacing: 0.5px;
+	float: left;
+	width: 100%;
+	font-weight: 700;
+
+}
+
+.address .text-box-2 h5{
+	font-size: 25px;
+	line-height: 30px;
+	color: #fff;
+	letter-spacing: 1.5px;
+	float: left;
+	width: 100%;
+	font-weight: 500;
+
+}
+
+.address .img-box{
+	width: 35%;
+	float: left;
+	margin-left: 150px;
+	padding top: 10px;
+	margin-bottom: 50px;
+}
